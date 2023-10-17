@@ -15,4 +15,17 @@
 //    alert('Оба условия не соблюдены');
 // }
 
+// # Задание 2
+// Перепишите код к тернарному оператору
+
+// let test = true;
+// if (test === true) {
+//    console.log('+++');
+// } else {
+//    console.log('---');
+// }
+
+// Решение
+// (test === true) ? console.log('+++') : console.log('---'); вариант 1
+// console.log((test === true) ? '+++' : '---'); вариант 2
 
